@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author xcbae
+ *
+ */
+module iVoteSimulator {
+}
